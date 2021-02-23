@@ -47,6 +47,14 @@ def cal_dist(topk=[1, 5, 10], metric="euclidean"):
         report_topk(k)
 
 
+def topk_imgs(query_img, database_vecs, database_imgs, topk=10, metric="euclidean"):
+    if query_img.shape[0] == 1:
+        query_img = np.squeeze(query_img, axis=0)
+    dis = pairwise_distances(X=query_img, Y=database_imgs, metric=metric, n_jobs=-1)
+    sort_idx1 = np.argsort(dis, axis=1)
+    sort_idx = sort_idx1[:topk]
+    return database_imgs[sort_idx]
+
 '''
 Step 1: get_feats.py
 Step 2: get_feats_by_EDF.py
