@@ -8,8 +8,6 @@ It solves the multi-view features fusion problem by searching an optimal combina
 **ATTN**: This package is free for academic usage. You can run it at your own risk. For other purposes, please contact Dr. Xinyan Liang.
 
 
-![The overall framework of EDF](images/model.png)
-
 
 ## Data preparation
    
