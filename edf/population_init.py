@@ -7,7 +7,7 @@
 import numpy as np
 import random
 import config
-import utils
+from tools import utils
 
 
 def generate_population(views=10, pop_size=10, verbose=0):

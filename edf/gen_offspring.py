@@ -3,7 +3,7 @@
 #email: liangxinyan48@163.com
 import os
 import copy
-import utils
+from tools import utils
 import random
 from config import get_configs
 paras = get_configs()
