@@ -1,0 +1,4 @@
+1. train_view_extractor.py  train view extractor using your own dataset
+2. get_model_predict_result.py  输出实验结果top1， top5, top10
+2. get_feats.py 使用训练好的模型提取特征
+3. open_set_report.py
