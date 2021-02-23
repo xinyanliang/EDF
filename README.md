@@ -83,7 +83,7 @@ these images from test set of ChEMBL-10k dataset are used query images.
 
 1. Download the trained EDF and view exteacter models from the link https://pan.baidu.com/s/1RtV3QACJpTPtWLJ7NdlSzg, then put them into the models folder;
 2. Download the datasets from the link https://pan.baidu.com/s/1LIE2ti2c9f4r9wuW3oUARQ 提取码：ejx5, then put them into the database folder;
-3. Running open_set_report.py
+3. Running the following script ```open_set_report.py```.
 ```python
 # open_set_report.py
 from sklearn.metrics import pairwise_distances
