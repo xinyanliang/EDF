@@ -7,7 +7,7 @@ A simple implementation of EDF version can be available in https://github.com/xi
 
 **Requirement**: The package was developed with python3 and tensorflow-gpu(2.0.3).
 
-**ATTN**: This package is free for academic usage. You can run it at your own risk. For other purposes, please contact Dr. Xinyan Liang.
+**ATTN**: This package is free for academic usage. You can run it at your own risk. For other purposes, please contact Dr. Xinyan Liang (xinyanliang48@163.com).
 
 ## Data preparation
    
