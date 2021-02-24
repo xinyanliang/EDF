@@ -29,7 +29,7 @@ Take dataset "ChemBook-10k" for example,
    The structure of the folder is follows:
   
      |--------------EDF<br/>
-         &nbsp;&nbsp;&nbsp;|---ChemBook-10k <br/>
+                   |---ChemBook-10k <br/>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---view <br/>
          &nbsp;&nbsp;&nbsp;|---ChEMBL-10k<br/>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|---view< br/>
