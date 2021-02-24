@@ -28,13 +28,13 @@ Take dataset "ChemBook-10k" for example,
   
    The structure of the folder is follows:
   
-     |-----EDF<br/>
-           |---ChemBook-10k <br/>
+     |-----EDF
+           |---ChemBook-10k
            |---view <br/>
-           |---ChEMBL-10k<br/>
+           |---ChEMBL-10k
            |---view< br/>
-           |---PubChem-10k<br/>
-           |---view <br/>
+           |---PubChem-10k
+           |---view
    
   
 ## Reproduce our results on ChemBook-10k, ChEMBL-10k and PubChem-10k
