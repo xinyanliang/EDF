@@ -71,7 +71,8 @@ def get_configs():
   
    options:
          data_name <string>   the dataset name to process currently, options ChemBook, Chembl, PubChem and tiny-imagenet200
-         gpu_list  <list>   GPU id list to train EDF. More the number of GPUs is, less time EDF takes. The maximum number of GPUs is equal to the size of population.
+         gpu_list  <list>   GPU id list to train EDF. More the number of GPUs is, less time EDF takes.
+                            The maximum number of GPUs is equal to the size of population.
          
 ```
 
