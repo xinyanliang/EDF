@@ -30,11 +30,11 @@ Take dataset "ChemBook-10k" for example,
   
      |-----EDF
            |---ChemBook-10k
-           |---view <br/>
+               |---view 
            |---ChEMBL-10k
-           |---view< br/>
+               |---view
            |---PubChem-10k
-           |---view
+               |---view
    
   
 ## Reproduce our results on ChemBook-10k, ChEMBL-10k and PubChem-10k
