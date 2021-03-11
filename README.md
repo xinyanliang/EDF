@@ -5,20 +5,13 @@ It solves the multi-view features fusion problem by searching an optimal combina
 A simple implementation of EDF version is available in https://github.com/xinyanliang/EDFv0.1.
 
 ```
-@ARTICLE{9373673,  author={X. {Liang} and Q. {Guo} and Y. {Qian} and W. {Ding} and Q. {Zhang}}, 
-
+@ARTICLE{Liang2021Evolutionary,  author={X. {Liang} and Q. {Guo} and Y. {Qian} and W. {Ding} and Q. {Zhang}}, 
 journal={IEEE Transactions on Evolutionary Computation},
-
 title={Evolutionary Deep Fusion Method and Its Application in Chemical Structure Recognition},
-
 year={2021},  
-
 volume={},  
-
 number={},  
-
 pages={1-1}, 
-
 doi={10.1109/TEVC.2021.3064943}}
 ```
 
