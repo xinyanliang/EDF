@@ -10,9 +10,9 @@ A simple implementation of EDF version is available in https://github.com/xinyan
       journal={IEEE Transactions on Evolutionary Computation},
       title={Evolutionary Deep Fusion Method and Its Application in Chemical Structure Recognition},
       year={2021},  
-      volume={},  
-      number={},  
-      pages={1-1}, 
+      volume={25},  
+      number={5},  
+      pages={883-893}, 
       doi={10.1109/TEVC.2021.3064943}}
 ```
 
